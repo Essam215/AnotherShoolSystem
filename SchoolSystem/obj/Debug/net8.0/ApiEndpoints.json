@@ -27,6 +27,7 @@
   },
   {
     "ContainingType": "SchoolSystem.Controllers.StudentController",
+<<<<<<< HEAD
     "Method": "UpdateStudent",
     "RelativePath": "api/Student",
     "HttpMethod": "PUT",
@@ -64,6 +65,8 @@
   },
   {
     "ContainingType": "SchoolSystem.Controllers.StudentController",
+=======
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
     "Method": "GetStudentById",
     "RelativePath": "api/Student/{id}",
     "HttpMethod": "GET",
@@ -79,6 +82,7 @@
     "ReturnTypes": []
   },
   {
+<<<<<<< HEAD
     "ContainingType": "SchoolSystem.Controllers.StudentController",
     "Method": "FilterByGender",
     "RelativePath": "api/Student/filter",
@@ -111,6 +115,8 @@
     "ReturnTypes": []
   },
   {
+=======
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
     "ContainingType": "SchoolSystem.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

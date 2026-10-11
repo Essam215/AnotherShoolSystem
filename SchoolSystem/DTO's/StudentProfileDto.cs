@@ -31,7 +31,12 @@ namespace SchoolSystem.DTO_s;
 
 public class UpdateStudentProfileDto
 {
+<<<<<<< HEAD
   
+=======
+    [Key]
+    public int Id { get; set; }
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
     [Required, MaxLength(200)]
     public string Address { get; set; }
     [Phone, Required]

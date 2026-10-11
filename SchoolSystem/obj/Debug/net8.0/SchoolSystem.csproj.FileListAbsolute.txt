@@ -141,6 +141,7 @@ C:\Users\EsaamEldeen.Omasa\source\repos\SchoolSystem\SchoolSystem\obj\Debug\net8
 C:\Users\EsaamEldeen.Omasa\source\repos\SchoolSystem\SchoolSystem\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\EsaamEldeen.Omasa\source\repos\SchoolSystem\SchoolSystem\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\EsaamEldeen.Omasa\source\repos\SchoolSystem\SchoolSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+<<<<<<< HEAD
 C:\Users\ALM7LAWE\Desktop\AnotherShoolSystem-main\SchoolSystem\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\ALM7LAWE\Desktop\AnotherShoolSystem-main\SchoolSystem\bin\Debug\net8.0\appsettings.json
 C:\Users\ALM7LAWE\Desktop\AnotherShoolSystem-main\SchoolSystem\bin\Debug\net8.0\SchoolSystem.staticwebassets.endpoints.json
@@ -284,3 +285,5 @@ C:\Users\ALM7LAWE\Desktop\AnotherShoolSystem-main\SchoolSystem\obj\Debug\net8.0\
 C:\Users\ALM7LAWE\Desktop\AnotherShoolSystem-main\SchoolSystem\obj\Debug\net8.0\SchoolSystem.pdb
 C:\Users\ALM7LAWE\Desktop\AnotherShoolSystem-main\SchoolSystem\obj\Debug\net8.0\SchoolSystem.genruntimeconfig.cache
 C:\Users\ALM7LAWE\Desktop\AnotherShoolSystem-main\SchoolSystem\obj\Debug\net8.0\ref\SchoolSystem.dll
+=======
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d

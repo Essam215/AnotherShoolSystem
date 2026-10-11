@@ -45,7 +45,11 @@ namespace SchoolSystem.Migrations
 
                     b.HasIndex("TeacherId");
 
+<<<<<<< HEAD
                     b.ToTable("Courses");
+=======
+                    b.ToTable("Course");
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
                 });
 
             modelBuilder.Entity("SchoolSystem.Models.Enrollment", b =>
@@ -74,7 +78,11 @@ namespace SchoolSystem.Migrations
 
                     b.HasIndex("StudentId");
 
+<<<<<<< HEAD
                     b.ToTable("Enrollments");
+=======
+                    b.ToTable("Enrollment");
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
                 });
 
             modelBuilder.Entity("SchoolSystem.Models.Student", b =>
@@ -110,6 +118,7 @@ namespace SchoolSystem.Migrations
                     b.HasIndex("Email")
                         .IsUnique();
 
+<<<<<<< HEAD
                     b.ToTable("Students");
 
                     b.HasData(
@@ -131,6 +140,9 @@ namespace SchoolSystem.Migrations
                             Gender = "Male",
                             Phone = "01068001912"
                         });
+=======
+                    b.ToTable("Student");
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
                 });
 
             modelBuilder.Entity("SchoolSystem.Models.StudentProfile", b =>
@@ -162,7 +174,11 @@ namespace SchoolSystem.Migrations
                     b.HasIndex("StudentId")
                         .IsUnique();
 
+<<<<<<< HEAD
                     b.ToTable("StudentProfiles");
+=======
+                    b.ToTable("StudentProfile");
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
                 });
 
             modelBuilder.Entity("SchoolSystem.Models.Teacher", b =>
@@ -194,7 +210,11 @@ namespace SchoolSystem.Migrations
                     b.HasIndex("Email")
                         .IsUnique();
 
+<<<<<<< HEAD
                     b.ToTable("Teachers");
+=======
+                    b.ToTable("Teacher");
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
                 });
 
             modelBuilder.Entity("SchoolSystem.Models.Course", b =>

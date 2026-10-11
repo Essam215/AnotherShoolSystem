@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.EntityFrameworkCore;
 using SchoolSystem.Data;
 using SchoolSystem.Models;
@@ -37,3 +38,11 @@ namespace SchoolSystem.Repos.Implementation
         }
     }
 }
+=======
+﻿namespace SchoolSystem.Repos.Implementation
+{
+    public class StudentRepo
+    {
+    }
+}
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d

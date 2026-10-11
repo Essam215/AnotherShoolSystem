@@ -55,6 +55,7 @@ namespace SchoolSystem.Controllers
             var studentDto = _mapper.Map<GetStudentDto>(student);
             return Ok(studentDto);
         }
+<<<<<<< HEAD
         [HttpPut]
         public async Task<IActionResult> UpdateStudent(UpdateStudentDto dto, int id)
         {
@@ -87,5 +88,7 @@ namespace SchoolSystem.Controllers
             var stds = await _unitOfWork.studentRepo.FilterByGender(gender);
             return Ok(stds);
         }
+=======
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
     }
 }

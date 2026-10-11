@@ -34,7 +34,12 @@ public class GetEnrollmentDto
 
 public class UpdateEnrollmentDto
 {
+<<<<<<< HEAD
   
+=======
+    [Key]
+    public int Id { get; set; }
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
     [Required, ForeignKey("StudentId")]
     public int StudentId { get; set; }
     [Required, ForeignKey("CourseId")]

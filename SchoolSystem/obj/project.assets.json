@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "version": 4,
+=======
+  "version": 3,
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
   "targets": {
     "net8.0": {
       "AutoMapper/12.0.1": {
@@ -4324,23 +4328,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\ALM7LAWE\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\EsaamEldeen.Omasa\\.nuget\\packages\\": {},
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\SchoolSystem.csproj",
       "projectName": "SchoolSystem",
       "projectPath": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\SchoolSystem.csproj",
       "packagesPath": "C:\\Users\\ALM7LAWE\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
+      "projectName": "SchoolSystem",
+      "projectPath": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
+      "packagesPath": "C:\\Users\\EsaamEldeen.Omasa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EsaamEldeen.Omasa\\source\\repos\\SchoolSystem\\SchoolSystem\\obj\\",
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\ALM7LAWE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\EsaamEldeen.Omasa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4353,7 +4373,10 @@
       },
       "frameworks": {
         "net8.0": {
+<<<<<<< HEAD
           "framework": "net8.0",
+=======
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -4368,11 +4391,18 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
+<<<<<<< HEAD
       "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net8.0": {
         "framework": "net8.0",
+=======
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
         "targetAlias": "net8.0",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
@@ -4421,7 +4451,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
       }
     }
   }

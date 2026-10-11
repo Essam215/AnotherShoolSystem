@@ -12,6 +12,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped(typeof(IGenericRepo<>), typeof(GenericRepo<>));
+<<<<<<< HEAD
 builder.Services.AddScoped<ITeacherRepo, TeacherRepo>();
 builder.Services.AddScoped<IStudentRepo, StudentRepo>();
 builder.Services.AddScoped<IStudentProfile, StudentProfileRepo>();
@@ -19,6 +20,10 @@ builder.Services.AddScoped<IEnrollmentRepo, EnrollmentRepo>();
 builder.Services.AddScoped<ICourseRepo, CourseRepo>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddAutoMapper(typeof(Program).Assembly);
+=======
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddAutoMapper(typeof(Program));
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
 builder.Services.AddDbContext<SchoolContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Conn")));
 var app = builder.Build();
 

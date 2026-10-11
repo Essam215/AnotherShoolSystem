@@ -26,6 +26,11 @@ public class GetCourseDto
 }
 public class UpdateCourseDto
 {
+<<<<<<< HEAD
+=======
+    [Key]
+    public int Id { get; set; }
+>>>>>>> c333d71e442dd746bc7d66a2c5ac64f88c9c2b3d
     [Required, MinLength(3), MaxLength(100)]
     public string Title { get; set; }
     [Required, Range(1, 6)]
