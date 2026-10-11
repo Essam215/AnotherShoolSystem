@@ -1,0 +1,589 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Migrations\\20261011195840_AddNewStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolSystem\\Migrations\\20261011195840_AddNewStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Migrations\\20261011195448_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolSystem\\Migrations\\20261011195448_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\dto\u0027s\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\dto\u0027s\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\implementation\\studentprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\implementation\\studentprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\interface\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\interface\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\implementation\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\implementation\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\implementation\\enrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\implementation\\enrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\interface\\icourserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\interface\\icourserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\implementation\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\implementation\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\implementation\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\implementation\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\interface\\istudentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\interface\\istudentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\dto\u0027s\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\dto\u0027s\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\dto\u0027s\\studentprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\dto\u0027s\\studentprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\dto\u0027s\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\dto\u0027s\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\dto\u0027s\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\dto\u0027s\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\profiles\\teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\profiles\\teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\profiles\\studentprofileprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\profiles\\studentprofileprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\profiles\\courseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\profiles\\courseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\profiles\\enrollmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\profiles\\enrollmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\schoolsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\schoolsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\interface\\ienrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\interface\\ienrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|c:\\users\\alm7lawe\\desktop\\anothershoolsystem-main\\schoolsystem\\repos\\interface\\iteacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACBF776-1179-4881-A2E3-FA9480FC3EAA}|SchoolSystem\\SchoolSystem.csproj|solutionrelative:schoolsystem\\repos\\interface\\iteacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261011195840_AddNewStudent.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Migrations\\20261011195840_AddNewStudent.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Migrations\\20261011195840_AddNewStudent.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Migrations\\20261011195840_AddNewStudent.cs",
+              "RelativeToolTip": "SchoolSystem\\Migrations\\20261011195840_AddNewStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T19:58:40.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20261011195448_Init.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Migrations\\20261011195448_Init.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Migrations\\20261011195448_Init.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Migrations\\20261011195448_Init.cs",
+              "RelativeToolTip": "SchoolSystem\\Migrations\\20261011195448_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T19:54:49.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Program.cs",
+              "RelativeToolTip": "SchoolSystem\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnrollmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\EnrollmentRepo.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Implementation\\EnrollmentRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\EnrollmentRepo.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Implementation\\EnrollmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentProfileRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\StudentProfileRepo.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Implementation\\StudentProfileRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\StudentProfileRepo.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Implementation\\StudentProfileRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Interface\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\IStudentRepo.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Interface\\IStudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "SchoolSystem\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Implementation\\UnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\DTO\u0027s\\StudentDto.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\DTO\u0027s\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\DTO\u0027s\\StudentDto.cs",
+              "RelativeToolTip": "SchoolSystem\\DTO\u0027s\\StudentDto.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\CourseRepo.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Implementation\\CourseRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\CourseRepo.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Implementation\\CourseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICourseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\ICourseRepo.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Interface\\ICourseRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\ICourseRepo.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Interface\\ICourseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\TeacherRepo.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Implementation\\TeacherRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\TeacherRepo.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Implementation\\TeacherRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Implementation\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Implementation\\StudentRepo.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Implementation\\StudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\IStudentProfile.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Interface\\IStudentProfile.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\IStudentProfile.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Interface\\IStudentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeacherDto.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\DTO\u0027s\\TeacherDto.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\DTO\u0027s\\TeacherDto.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\DTO\u0027s\\TeacherDto.cs",
+              "RelativeToolTip": "SchoolSystem\\DTO\u0027s\\TeacherDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\DTO\u0027s\\StudentProfileDto.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\DTO\u0027s\\StudentProfileDto.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\DTO\u0027s\\StudentProfileDto.cs",
+              "RelativeToolTip": "SchoolSystem\\DTO\u0027s\\StudentProfileDto.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnrollmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\DTO\u0027s\\EnrollmentDto.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\DTO\u0027s\\EnrollmentDto.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\DTO\u0027s\\EnrollmentDto.cs",
+              "RelativeToolTip": "SchoolSystem\\DTO\u0027s\\EnrollmentDto.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\DTO\u0027s\\CourseDto.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\DTO\u0027s\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\DTO\u0027s\\CourseDto.cs",
+              "RelativeToolTip": "SchoolSystem\\DTO\u0027s\\CourseDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Interface\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\IGenericRepo.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Interface\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeacherProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Profiles\\TeacherProfile.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Profiles\\TeacherProfile.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Profiles\\TeacherProfile.cs",
+              "RelativeToolTip": "SchoolSystem\\Profiles\\TeacherProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentProfileProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Profiles\\StudentProfileProfile.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Profiles\\StudentProfileProfile.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Profiles\\StudentProfileProfile.cs",
+              "RelativeToolTip": "SchoolSystem\\Profiles\\StudentProfileProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Profiles\\CourseProfile.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Profiles\\CourseProfile.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Profiles\\CourseProfile.cs",
+              "RelativeToolTip": "SchoolSystem\\Profiles\\CourseProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnrollmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Profiles\\EnrollmentProfile.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Profiles\\EnrollmentProfile.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Profiles\\EnrollmentProfile.cs",
+              "RelativeToolTip": "SchoolSystem\\Profiles\\EnrollmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Profiles\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Profiles\\StudentProfile.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Profiles\\StudentProfile.cs",
+              "RelativeToolTip": "SchoolSystem\\Profiles\\StudentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolSystem\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Models\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Models\\StudentProfile.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Models\\StudentProfile.cs",
+              "RelativeToolTip": "SchoolSystem\\Models\\StudentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolSystem\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Models\\Enrollment.cs",
+              "RelativeToolTip": "SchoolSystem\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Models\\Course.cs",
+              "RelativeToolTip": "SchoolSystem\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SchoolSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\SchoolSystem.csproj",
+              "RelativeDocumentMoniker": "SchoolSystem\\SchoolSystem.csproj",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\SchoolSystem.csproj",
+              "RelativeToolTip": "SchoolSystem\\SchoolSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-11T17:54:56.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IEnrollmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\IEnrollmentRepo.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Interface\\IEnrollmentRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\IEnrollmentRepo.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Interface\\IEnrollmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITeacherRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\ITeacherRepo.cs",
+              "RelativeDocumentMoniker": "SchoolSystem\\Repos\\Interface\\ITeacherRepo.cs",
+              "ToolTip": "C:\\Users\\ALM7LAWE\\Desktop\\AnotherShoolSystem-main\\SchoolSystem\\Repos\\Interface\\ITeacherRepo.cs",
+              "RelativeToolTip": "SchoolSystem\\Repos\\Interface\\ITeacherRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:54:56.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
